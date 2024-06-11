@@ -1,0 +1,7 @@
+.button{
+    --bg-color: none;
+
+    background-color: var(--bg-color);
+    border-radius: 6px;
+}
+
